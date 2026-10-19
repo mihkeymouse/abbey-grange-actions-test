@@ -1,22 +1,13 @@
-## G1 — The Wineglasses
+## G2 - The Bell Rope 
 
-Inspector Hopkins believes three burglars entered the house and committed the crime.
+ Holmes has returned to Abbey Grange to examine the dining room again. 
 
-Examine the witness testimony and dining-room evidence on their respective branches.
+ Review `case/04_return.md` and compare the evidence with Lady Brackenstall's testimony. 
 
-**What do the wineglasses suggest about the alleged three drinkers?**
+ **What does the condition of the bellrope suggest about the alleged burglary?***
 
-<details>
-<summary>HINT:</summary>
-
-Three glasses contained wine, but only one contained bees-wing (sediment that forms in aged wine).
-
-Why might the sediment be concentrated in only one of the three glasses? And what does this suggest about the alleged three drinkers?
-
-</details>
-
-Write your deduction in `deduction.txt`:
+Record your deduction in `deduction.txt`:
 
 ```text
-G1=Your deduction here
+G2=Your deduction here
 ```
