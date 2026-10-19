@@ -1,1 +1,1 @@
-G4=Jack Crocker was a ship's officer who knew Mary Fraser during her voyage from Australia. His connection to Mary and his maritime experience make him a suspect.
+G5=NOT GUILTY
