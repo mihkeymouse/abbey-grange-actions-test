@@ -1,1 +1,1 @@
-G2=The bell rope was cut with a knife. The blood on the chair proves Lady Brackenstall was tied there after the killing, so the burglary was staged.
+G3=The culprit may be a sailor who knew Mary Fraser during her voyage from Australia. Holmes should examine shipping and crew records.
