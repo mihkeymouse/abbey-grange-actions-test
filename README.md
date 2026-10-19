@@ -1,45 +1,22 @@
-# The Adventure of the Abbey Grange
+## G1 — The Wineglasses
 
-*A Sherlock Holmes mystery played through Git.*
+Inspector Hopkins believes three burglars entered the house and committed the crime.
 
-You are Sherlock Holmes. Dr. Watson has kept a version-controlled record of a quite remarkable case.
+Examine the witness testimony and dining-room evidence on their respective branches.
 
-Investigate the evidence, form your deductions and test them through Git.
+**What do the wineglasses suggest about the alleged three drinkers?**
 
-## How to Play
+<details>
+<summary>HINT:</summary>
 
-Explore Watson's records using:
+Three glasses contained wine, but only one contained bees-wing (sediment that forms in aged wine).
 
-```bash
-git log --oneline
-git show HEAD
-git diff HEAD~1 HEAD
-```
+Why might the sediment be concentrated in only one of the three glasses? And what does this suggest about the alleged three drinkers?
 
-New case-files will appear under `case/` as the investigation advances
+</details>
 
-Write your answer in `deduction.txt`,then commit  and push it.
-
-Once GitHub Actions completes, retrieve the next record using:
-
-```bash
-git pull --rebase
-```
-
-## Begin the Investigation
-
-Open `deduction.txt` and enter:
+Write your deduction in `deduction.txt`:
 
 ```text
-G0=START!
+G1=Your deduction here
 ```
-
-Then run:
-
-```bash
-git add deduction.txt
-git commit -m "START!"
-git push
-```
-
-**The game is afoot!**
