@@ -1,18 +1,19 @@
-##G4 - The First Officer 
+##G5 - The Final Judgement 
 
- Read `case/06_shipping.md` and compare its findings with the earlier, physical evidence. 
+ Captain Crocker has confessed. He admits to killing Sir Eustace Brackenstall, but he insists that he acted to defend himself and Mary Fraser. Go through `case/07_confession.md` carefully and review all the facts of the case. 
 
- **Why should Holmes investigate Jack Crocker? What connects him to the crime?**
+ **What verdict should Watson, acting as Jury, deliver?**
 
-<details>
-<summary>💡 Hint</summary>
-
-Consider his occupation and his connection to Mary's voyage.
-
-</details>
-
-Write your deduction in `deduction.txt`:
+Record your verdict in `deduction.txt`:
 
 ```text
-G4=Your deduction here
+G5=GUILTY
 ```
+
+or
+
+```text
+G5=NOT GUILTY
+```
+
+Commit and push your verdict.`
