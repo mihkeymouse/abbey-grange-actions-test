@@ -1,13 +1,20 @@
-## G2 - The Bell Rope 
+## G3 — The Missing Connection
 
- Holmes has returned to Abbey Grange to examine the dining room again. 
+Holmes believes the burglary was staged, and that Lady Brackenstall and Theresa are protecting someone.
 
- Review `case/04_return.md` and compare the evidence with Lady Brackenstall's testimony. 
+Read `case/05_investigation.md` and revisit the knots described in the original dining-room evidence.
 
- **What does the condition of the bellrope suggest about the alleged burglary?***
+**What kind of person might fit the physical evidence, and what records should Holmes investigate to identify him?**
+
+<details>
+<summary>Hint</summary>
+
+Think about Lady Brackenstall's voyage, and the profession that requires familiarity with ropes and knots.
+
+</details>
 
 Record your deduction in `deduction.txt`:
 
 ```text
-G2=Your deduction here
+G3=Your deduction here
 ```
